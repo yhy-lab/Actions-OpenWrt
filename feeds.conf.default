@@ -14,4 +14,4 @@ src-git small https://github.com/kenzok8/small
 #src-git dockerman https://github.com/lisaac/luci-app-dockerman
 #src-git xray https://github.com/honwen/luci-app-xray
 #git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
-git clone https://github.com/honwen/luci-app-xray.git package/luci-app-xray
+src-git honwen https://github.com/honwen/luci-app-xray
